@@ -126,7 +126,7 @@ if __name__ == '__main__':
     
   app = QApplication(sys.argv)
     
-  # creating a clock objec
+  # creating a clock object
   win = Clock()
     
   # show
