@@ -1,3 +1,4 @@
+#to print the entered no.'s sqrt and fibonacci of rounded up sqrt
 import math
 number = int(input("enter a value please? "))
 sqrt = math.sqrt(number)
